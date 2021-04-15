@@ -1,27 +1,29 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include monetary economics, time-series econometrics and economic education.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: Ohio State University (U.S.)
+    year: 2002
+  - course: MA in Economics
+    institution: Ohio State University (U.S.)
+    year: 1998
+  - course: MA in Economics
+    institution: Chung-Ang University (Korea)
+    year: 1992
+  - course: BA in Engineering of Electronics
+    institution: Seoul National University (Korea)
+    year: 1989
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Money-Macroeconomics
+- Time Series Econometrics
+- Economic Education
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Inha University
+  url: https://www.inha.ac.kr/
+role: Ph.D in Economics, Professor of Social Studies Education
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,11 +44,9 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Kyungho JANG
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kyungho Jang is a professor of department of social studies education at Inha University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/vitae_jang-2013-08-05.pdf" "newtab" >}}resumé{{< /staticref >}}.
