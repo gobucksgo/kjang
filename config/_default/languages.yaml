@@ -14,9 +14,27 @@ ko:
   contentDir: content/ko
   menu:
     main:
-      - name: about
+      - name: 프로필
         url: '#about'
-        weight: 1
+        weight: 10
+      - name: 포스트
+        url: '#posts'
+        weight: 20
+      - name: 프로젝트
+        url: '#projects'
+        weight: 30
+      - name: 발표
+        url: '#talks'
+        weight: 40
+      - name: 출판
+        url: '#featured'
+        weight: 50
+      - name: 코스
+        url: courses/
+        weight: 60
+      - name: 연락처
+        url: '#contact'
+        weight: 70
 
 
 # Uncomment the lines below to configure your website in a second language.
@@ -28,6 +46,6 @@ ko:
 #    description: Site description in Chinese...
 #  menu:
 #    main:
-#      - name: 传
+#      - name: ?
 #        url: '#about'
 #        weight: 1
