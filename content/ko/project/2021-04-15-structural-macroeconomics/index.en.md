@@ -19,6 +19,8 @@ image:
 projects: []
 ---
 
+한글
+
 This book presents various structural econometric tools used in macroeconomics.
 The word “structural” has been defined in many ways. In this book, “structural”
 means that explicit assumptions are made in econometric methods so that estimators
